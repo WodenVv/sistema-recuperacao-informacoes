@@ -1,0 +1,17 @@
+# ambiente virtual
+venv/
+.venv/
+
+# arquivos Python
+__pycache__/
+*.pyc
+
+# arquivos de configuração local
+.env
+
+# banco vetorial gerado localmente
+faiss_index/
+
+# arquivos do editor
+.vscode/
+.idea/
