@@ -1,4 +1,4 @@
-#Sistema de Recuperação de Informações com FAISS e RetrievalQA
+# Sistema de Recuperação de Informações com FAISS e RetrievalQA
 
 ## Sobre o projeto:
 
